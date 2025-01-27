@@ -1,0 +1,52 @@
+#body {
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    background-color: #52aa8a;
+    color: #f8f8ff;
+}
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+.header {
+    color: #f0f465;
+}
+.intro {
+    margin-top: 10px;
+    border-bottom: 5px solid #f8f8ff;
+}
+h4 {
+    margin-bottom: 20px;
+}
+small {
+    color: lightgray;
+}
+.card {
+    background-color: #52aa8a;
+    color: #f8f8ff;
+    border: 0px;
+    width: 970px;
+}
+.card-img-top {
+    height: 150px;
+    width: 150px;
+    border-radius: 30px;
+}
+.books {
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    gap: 20px;
+}
+.card-text {
+    font-size: 20px;
+}
+h5 {
+    font-size: 25px;
+}
+select {
+    border-radius: 30px;
+}
