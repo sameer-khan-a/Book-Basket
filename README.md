@@ -9,14 +9,7 @@ Book Basket is a MERN (PostgresQL, Express.js, React.js, Node.js) application th
 - **Interactive UI**: A clean and intuitive user interface for seamless browsing.
 
 ## 🌟 Screenshots
-### Homepage
-![Homepage](public/images/homepage.png)
-
-### Upload Book
-![Upload Book](public/images/upload-book.png)
-
-### Book List
-![Book List](public/images/book-list.png)
+![Preview](public/book basket.png)
 
 ## 🛠 Installation & Setup
 Clone the repository:
