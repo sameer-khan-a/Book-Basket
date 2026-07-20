@@ -102,8 +102,8 @@ npm run server
 - [x] Ratings and reviews
 - [x] Automatic book cover integration
 - [x] Responsive user interface
+- [x] Personal reading lists
 - [ ] User authentication
-- [ ] Personal reading lists
 - [ ] Search and filtering
 - [ ] Wishlist
 - [ ] Recommendation engine
