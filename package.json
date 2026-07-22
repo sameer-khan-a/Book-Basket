@@ -2,9 +2,11 @@
   "name": "book-basket",
   "version": "1.0.0",
   "type": "module",
-  "description": "A mern application that is used to store the books i have read, my ratings and reviews for it.",
+  "description": "A MERN application that is used to store the books I have read, along with my ratings and reviews.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Sameer-Khan-A",
